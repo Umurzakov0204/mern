@@ -1,4 +1,5 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://Ali:yjKMU2cITakXaybQ@cluster0.8spzjeb.mongodb.net/app?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://Ali:Ing11eOlnvLfQAj2@cluster0.xbcoluj.mongodb.net/app?retryWrites=true&w=majority"
 }
+
